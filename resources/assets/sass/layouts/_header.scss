@@ -1,0 +1,20 @@
+header
+{
+    background: #EDEDED; margin-bottom: 60px;
+
+    .logo {
+        background: $blue; padding: 47px 0 21px 0;
+    }
+
+    .message {
+        position: relative; padding: 50px 0;
+
+        h1 {
+            font-size: 32px; line-height: 45px; font-weight: normal; margin: 0;
+            width: 60%;
+            strong { font-weight: bold; }
+        }
+
+        img { position: absolute; bottom: -50px; right: -80px; max-width: 650px; }
+    }
+}

@@ -1,0 +1,13 @@
+* html { font-size: 112.5%; }
+html { font-size: 18px; line-height: 1.33333em; height: 100%; overflow-y: scroll; }
+
+a, a:visited{ color: #203253; }
+a:hover{ color: $lightBlue; }
+
+body {
+    font-family: "brix-slab"; color: #203253;
+}
+
+hr {
+    height: 1px; border-top: 1px solid #203253; margin: 3em 0;
+}

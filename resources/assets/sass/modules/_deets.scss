@@ -1,0 +1,13 @@
+.deets
+{
+    display: flex; justify-content: space-between; margin-bottom: 4em;
+    section { width: 30%; flex: 2; }
+
+    section:nth-child(2) { flex: 1; margin: 0 110px; }
+
+    h2 { margin: 0; font-size: 30px; color: $blue; line-height: 35px; }
+
+    .content{
+        font-size: 24px; font-weight: 300;
+    }
+}

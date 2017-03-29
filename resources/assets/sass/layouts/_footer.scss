@@ -1,0 +1,16 @@
+footer
+{
+    background: #EDEDED; padding: 25px 0; margin-top: 20px;
+
+    .container {
+        display: flex; align-items: center;
+    }
+
+    img { width: 149px; margin-right: 30px; }
+    h4, h5 { font-weight: 200; margin: 0; font-size: 24px; }
+
+
+    h4 { margin-right: auto; }
+    h4 span { font-size: .5em; line-height: 1.25em; display: block; }
+    h5 span { font-weight: bold; }
+}
