@@ -1,7 +1,7 @@
 * html { font-size: 112.5%; }
 html { font-size: 18px; line-height: 1.33333em; height: 100%; overflow-y: scroll; }
 
-a, a:visited{ color: #203253; }
+a, a:visited{ color: #203253; outline: none; }
 a:hover{ color: $lightBlue; }
 
 body {
@@ -11,3 +11,5 @@ body {
 hr {
     height: 1px; border-top: 1px solid #203253; margin: 3em 0;
 }
+
+.no_wrap { white-space: nowrap; }

@@ -1,9 +1,10 @@
 header
 {
-    background: #EDEDED; margin-bottom: 60px;
+    background: #EDEDED; margin-bottom: 60px; overflow: hidden;
 
     .logo {
         background: $blue; padding: 47px 0 21px 0;
+        img { display: block; }
     }
 
     .message {
@@ -16,5 +17,34 @@ header
         }
 
         img { position: absolute; bottom: -50px; right: -80px; max-width: 650px; }
+    }
+
+    @include media($smaller_than_desktop)
+    {
+        .logo {
+            img { width: 100%; }
+        }
+
+        .message {
+            img { width: 50%; right: -2%; }
+        }
+    }
+
+    @include media($smaller_than_tablet)
+    {
+        margin-bottom: 10px;
+
+        .message {
+            h1 { width: 100%; }
+            img { width: 64%; margin: 0 auto; position: relative; right: auto; left: 15%; }
+        }
+    }
+
+    @include media($pre_mobile)
+    {
+        .message {
+            h1 { font-size: 25px; line-height: 38px; }
+            img { width: 88%; left: 2%; }
+        }
     }
 }

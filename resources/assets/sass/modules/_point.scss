@@ -28,4 +28,19 @@
     }
 
     .ntm { margin-top: 0; }
+
+    .fa.anchor { font-size: .75em; }
+
+    @include media($tablet)
+    {
+        flex-direction: column; margin-bottom: 40px;
+
+        h2 { font-size: 25px; }
+
+        .content {
+            font-size: 18px; line-height: 32px;
+        }
+
+        .center { padding: 0; text-align: left; font-size: .85em; }
+    }
 }

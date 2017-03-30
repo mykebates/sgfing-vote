@@ -24,6 +24,7 @@ $pre_mobile: new-breakpoint(max-width 600px 4);
 $smaller_than_tablet: new-breakpoint(max-width 767px 8); // more descriptive name than small_tablet
 $tablet: new-breakpoint(max-width 768px 8);
 
+$smaller_than_desktop: new-breakpoint(max-width 1023px 12);
 $desktop: new-breakpoint(max-width 1280px 12);
 $desktop_large: new-breakpoint(min-width 1281px 12);
 

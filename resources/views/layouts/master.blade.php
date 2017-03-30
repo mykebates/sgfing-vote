@@ -33,7 +33,9 @@
 
 <footer>
     <div class="container">
-        <img src="/images/sgf-flag.png" alt="SGF Flag">
+        <a href="http://sgfflag.org/" target="_blank">
+            <img src="/images/sgf-flag.png" alt="SGF Flag">
+        </a>
         <h4>
             Made with love by those who SGF'ing care. <br>
             <span>

@@ -13,4 +13,23 @@ footer
     h4 { margin-right: auto; }
     h4 span { font-size: .5em; line-height: 1.25em; display: block; }
     h5 span { font-weight: bold; }
+
+    @include media($smaller_than_desktop)
+    {
+        img { width: 120px; }
+    }
+
+    @include media($smaller_than_tablet)
+    {
+        .container {
+            flex-direction: column; text-align: center;
+        }
+
+        img { margin-right: 0; width: 175px; }
+        h4 { margin-right: 0; }
+
+        h4 { order: 2; margin: 1em 0; }
+        h5 { order: 1;  }
+        a { order: 3; }
+    }
 }
