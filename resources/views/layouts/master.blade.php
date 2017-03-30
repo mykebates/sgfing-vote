@@ -4,13 +4,29 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>SGF'ing Vote</title>
-    <meta name="description" content="">
+    <meta name="description" content="In April elections, the average age of Springfield voters is 68. C’mon guys, we can do better.">
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="/css/app.css">
     <script src="https://use.typekit.net/egn3oau.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+    <meta property="og:url" content="http://sgfingvote.com" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="SGF'ing Vote" />
+    <meta property="og:description" content="In April elections, the average age of Springfield voters is 68. C’mon guys, we can do better." />
+    <meta property="og:image" content="http://sgfingvote.com/images/og.png" />
 </head>
 <body>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-96484681-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
 
 <header>
     <div class="logo">
