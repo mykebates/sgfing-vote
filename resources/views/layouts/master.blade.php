@@ -13,7 +13,7 @@
     <meta property="og:url" content="http://sgfingvote.com" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="SGFing VOTE | April 4" />
-    <meta property="og:description" content="In April elections, the average age of Springfield voters is 68. C’mon guys, we can do better." />
+    <meta property="og:description" content="Exercise your right to free stickers. Vote." />
     <meta property="og:image" content="http://sgfingvote.com/images/og.png" />
 </head>
 <body>
