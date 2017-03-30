@@ -52,6 +52,7 @@ Route::post('sgfing-image', function(Request $request){
     $img = Image::make($file)
         ->fit(800,800)
         ->resize(800,800)
+        ->orientate()
         ->insert('images/overlay.png', 'bottom', 100)->save();
     //$img->fit(800, 800, function ($constraint) {
     //    $constraint->upsize();
