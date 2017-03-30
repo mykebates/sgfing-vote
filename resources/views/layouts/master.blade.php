@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>SGFing VOTE | April 4</title>
+    <title>SGFing VOTE on April 4th</title>
     <meta name="description" content="In April elections, the average age of Springfield voters is 68. C’mon guys, we can do better.">
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="/css/app.css">
@@ -12,7 +12,7 @@
 
     <meta property="og:url" content="http://sgfingvote.com" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="SGFing VOTE | April 4" />
+    <meta property="og:title" content="SGFing VOTE on April 4th" />
     <meta property="og:description" content="Exercise your right to free stickers. Vote." />
     <meta property="og:image" content="http://sgfingvote.com/images/og.png" />
 </head>
