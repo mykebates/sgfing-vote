@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>SGFing Vote on Nov. 6</title>
-    <meta name="description" content="In April elections, the average age of Springfield voters is 68. C’mon guys, we can do better.">
+    <meta name="description" content="In the 2014 midterms, only 23% of voters age 18-34 showed up to vote. C’mon guys, we can do better - SGFing VOTE on Nov 6th">
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="/css/app.css">
     <script src="https://use.typekit.net/egn3oau.js"></script>
@@ -20,7 +20,7 @@
 
     <meta property="og:url" content="http://sgfingvote.com" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="SGFing VOTE on April 4th" />
+    <meta property="og:title" content="SGFing VOTE on Nov 6th" />
     <meta property="og:description" content="Exercise your right to free stickers. Vote." />
     <meta property="og:image" content="http://sgfingvote.com/images/og.png" />
 </head>
