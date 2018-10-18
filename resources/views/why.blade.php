@@ -2,7 +2,7 @@
     <h2>WHY?</h2>
     <div class="content">
         <p>
-            Overall Greene County voter turnout in April 2016 was 10.43%. Local elections may not make national
+            In April elections, the average age of Springfield voters is 68. Overall Greene County voter turnout in April 2016 was 10.43%. Local elections may not make national
             news, but the results have a real impact on your life.
         </p>
 

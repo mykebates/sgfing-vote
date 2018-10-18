@@ -4,7 +4,7 @@
     <div class="container">
         <div class="deets">
             <section>
-                <h2>In April elections, the average age of Springfield voters is 68.</h2>
+                <h2>In the 2014 midterms, only 23% of voters age 18-34 showed up to vote.</h2>
                 <div class="content">
                     <p>
                         C’mon guys, we can do better.
@@ -16,7 +16,7 @@
                 <h2>WHEN?</h2>
                 <div class="content">
                     <p class="no_wrap">
-                        Tuesday, April 4<br>
+                        Tuesday, Nov. 6<br>
                         6 a.m. - 7 p.m.
                     </p>
                 </div>
@@ -39,7 +39,7 @@
         @include('why')
         @include('what')
         @include('share')
-        @include('word')
+        {{--@include('word')--}}
     </div>
 
 @endsection
