@@ -3,7 +3,7 @@
     <div class="content">
 
         <p>
-            This <a href="https://greenecountymo.gov/files/PDF/file.pdf?id=30361" target="_blank">Sample Ballot PDF</a> shows what you’ll see on Tuesday. Read on below for more info on the candidates and issues.
+            This <a href="https://greenecountymo.gov/files/PDF/file.pdf?id=33012" target="_blank">Sample Ballot PDF</a> shows what you’ll see on Tuesday. Read on below for more info on the candidates and issues.
         </p>
         <p>
             <a href="#candidates">Candidates</a>  <i class="fa fa-anchor anchor"></i><br>
