@@ -67,9 +67,9 @@
                 Goodness no. We’re just a group of Springfield creative professionals trying to do a little good.
                 <br>
                 <br>
-                2014 stat: <a href="https://www.census.gov/content/dam/Census/library/publications/2015/demo/p20-577.pdf?inf_contact_key=f15afd9d25734985fb866dacb6834c965db7dcacda507f5f284f947fd2615e45&fbclid=IwAR2astldqRuM1DUGzd2FY_o3ChDKWdzezm4di-k-nHuSMQgFLdmYJl-SW8s">Census Bureau </a>
+                2014 stat: <a href="https://www.census.gov/content/dam/Census/library/publications/2015/demo/p20-577.pdf?inf_contact_key=f15afd9d25734985fb866dacb6834c965db7dcacda507f5f284f947fd2615e45&fbclid=IwAR2astldqRuM1DUGzd2FY_o3ChDKWdzezm4di-k-nHuSMQgFLdmYJl-SW8s" target="_blank">Census Bureau </a>
                 <br>
-                April elections stat: <a href="https://www.news-leader.com/story/news/local/2017/03/15/poll-average-greene-county-voter-68-years-old-april-elections/99022864/?fbclid=IwAR2KkcXz2HpTGfPlpp2mhUIcztTdvgr-85q67MZb9StWkwcAuAcfZ3eGC1s">News-Leader</a>
+                April elections stat: <a href="https://www.news-leader.com/story/news/local/2017/03/15/poll-average-greene-county-voter-68-years-old-april-elections/99022864/?fbclid=IwAR2KkcXz2HpTGfPlpp2mhUIcztTdvgr-85q67MZb9StWkwcAuAcfZ3eGC1s" target="_blank">News-Leader</a>
             </span>
         </h4>
         <h5>Put the "me" in govern<span>me</span>nt</h5>

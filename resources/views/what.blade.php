@@ -68,9 +68,9 @@
         </p>
 
         <p>
-            <a href="https://www.news-leader.com/story/news/politics/elections/2018/09/03/medical-marijuana-missouri-voting-november/1112407002/">News-Leader: Medical Marijuana, a Voter’s Guide</a>
+            <a target="_blank" href="https://www.news-leader.com/story/news/politics/elections/2018/09/03/medical-marijuana-missouri-voting-november/1112407002/">News-Leader: Medical Marijuana, a Voter’s Guide</a>
             <br>
-            <a href="https://www.news-leader.com/story/news/local/missouri/2018/10/13/3-missouri-medical-marijuana-proposals-differ-taxing-regulation/1630672002/">News-Leader - Proposals differ in taxing, regulation</a>
+            <a target="_blank" href="https://www.news-leader.com/story/news/local/missouri/2018/10/13/3-missouri-medical-marijuana-proposals-differ-taxing-regulation/1630672002/">News-Leader - Proposals differ in taxing, regulation</a>
         </p>
 
         <h4>Amendment 4</h4>
@@ -80,7 +80,7 @@
         </p>
 
         <p>
-            <a href="https://fox4kc.com/2018/10/12/heres-why-a-change-to-bingo-laws-is-on-the-november-ballot-in-missouri/">Fox 4 KC</a>
+            <a target="_blank" href="https://fox4kc.com/2018/10/12/heres-why-a-change-to-bingo-laws-is-on-the-november-ballot-in-missouri/">Fox 4 KC</a>
         </p>
         
 
@@ -90,7 +90,7 @@
         </p>
         
         <p>
-            <a href="https://www.ozarksfirst.com/news/missouri-minimum-wage-issue-on-nov-ballot/1358788130">Ozarks First</a>
+            <a target="_blank" href="https://www.ozarksfirst.com/news/missouri-minimum-wage-issue-on-nov-ballot/1358788130">Ozarks First</a>
         </p>
 
         <h4>Proposition D</h4>
@@ -98,7 +98,7 @@
             Increases gas tax, provides tax exemption for Olympic prizes, and creates fund for projects to improve roads and alleviate bottleneck traffic
         </p>
         <p>
-            <a href="http://www.koamtv.com/story/39180800/both-sides-of-the-isle-breaking-down-missouri-proposition-d">KOAM TV - Joplin</a>
+            <a target="_blank" href="http://www.koamtv.com/story/39180800/both-sides-of-the-isle-breaking-down-missouri-proposition-d">KOAM TV - Joplin</a>
         </p>
          
          <hr>
