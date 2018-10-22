@@ -1,0 +1,33 @@
+.app {
+	text-align: center;
+
+	h2 {
+		text-align: center;
+	}
+	
+	.links {
+		text-align: center;
+		margin-bottom: 1em;
+	}
+
+	img {
+		height: 45px;
+		object-fit: cover;
+		display: inline-block;
+	}
+
+	a {
+		text-decoration: none;
+	}
+
+	@include media($pre_mobile)
+	{
+		h2 {
+			font-size: 20px;
+		}
+
+		img {
+			height: 40px;
+		}
+	}
+}

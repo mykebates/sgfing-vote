@@ -23,25 +23,60 @@
             <a href="https://www.vote411.org/ballot" target="_blank">[Go to Vote411]</a>
         </p>
 
-        {{--<div class="mayoral">
+        <h4>U.S. Senate - Missouri</h4>
+
+        <p>
+            Senators serve for 6 years, and they decide all sorts of pretty important things. Like, oh, you know, Supreme Court Justices for example. <br>Nbd. (jk. vbd. vbfd.)
+        </p>
+        <div class="mayoral">
             <div class="mayor">
-                <strong class="mt">Ken McClure</strong>
+                <strong class="mt">Claire McCaskill - D</strong>
                 <div class="sgfing_socialz">
-                    <a href="https://www.facebook.com/KenMcClureForMayor/" target="_blank"><i class="fa fa-facebook-official"></i></a>
-                    <a href="https://twitter.com/McClureForMayor" target="_blank"><i class="fa fa-twitter"></i></a>
-                    <a href="http://mcclureformayor.com/" target="_blank"><i class="fa fa-globe"></i></a>
+                    <a href="https://www.facebook.com/clairemccaskill/" target="_blank"><i class="fa fa-facebook-official"></i></a>
+                    <a href="https://twitter.com/clairecmc" target="_blank"><i class="fa fa-twitter"></i></a>
+                    <a href="https://clairemccaskill.com/" target="_blank"><i class="fa fa-globe"></i></a>
                 </div>
             </div>
 
             <div class="mayor">
-                <strong class="mt">Kristi Fulnecky</strong>
+                <strong class="mt">Josh Hawley - R</strong>
                 <div class="sgfing_socialz">
-                    <a href="https://www.facebook.com/fulneckyforspringfield" target="_blank"><i class="fa fa-facebook-official"></i></a>
-                    <a href="https://twitter.com/fulnecky4sgf" target="_blank"><i class="fa fa-twitter"></i></a>
-                    <a href="http://www.fulneckyforspringfield.com/" target="_blank"><i class="fa fa-globe"></i></a>
+                    <a href="https://www.facebook.com/HawleyMO/" target="_blank"><i class="fa fa-facebook-official"></i></a>
+                    <a href="https://twitter.com/HawleyMO/" target="_blank"><i class="fa fa-twitter"></i></a>
+                    <a href="https://joshhawley.com/" target="_blank"><i class="fa fa-globe"></i></a>
                 </div>
             </div>
-        </div>--}}
+        </div>
+
+        <div class="mayoral" style="margin-top: 2em;">
+            <div class="mayor">
+                <strong class="mt">Craig O’Dear - I</strong>
+                <div class="sgfing_socialz">
+                    <a href="https://www.facebook.com/odearformissouri/" target="_blank"><i class="fa fa-facebook-official"></i></a>
+                    <a href="https://twitter.com/CSODear" target="_blank"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.craigodear.com/" target="_blank"><i class="fa fa-globe"></i></a>
+                </div>
+            </div>
+
+            <div class="mayor">
+                <strong class="mt">Japheth Campbell - L</strong>
+                <div class="sgfing_socialz">
+                    <a href="https://www.facebook.com/Campbell4Liberty/" target="_blank"><i class="fa fa-facebook-official"></i></a>
+                    <a href="https://twitter.com/yefeth" target="_blank"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.campbell4liberty.com/" target="_blank"><i class="fa fa-globe"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="mayoral" style="margin-top: 2em;">
+            <div class="mayor">
+                <strong class="mt">Jo Crain - G</strong>
+                <div class="sgfing_socialz">
+                    <a href="https://www.facebook.com/jocrainforussenate" target="_blank"><i class="fa fa-facebook-official"></i></a>
+                    <a href="https://www.missourigreenparty.org/jo_crain_for_us_senate" target="_blank"><i class="fa fa-globe"></i></a>
+                </div>
+            </div>
+        </div>
 
         <hr>
 

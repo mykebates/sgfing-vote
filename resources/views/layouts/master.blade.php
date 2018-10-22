@@ -37,6 +37,26 @@
 </script>
 
 <header>
+    <div class="app">
+        <div class="container">
+            <div>
+                <h2>Choose your issues. Share your voice. COMING SOON: SGFing VOTE App</h2>
+            </div>
+            
+            <div style="display: none;">
+                <h2>Choose your issues. Share your voice. Download the SGFing VOTE App:</h2>
+                <div class="links">
+                    <a href="#" target="_blank">
+                        <img src="https://quipvid.com/img/app_store.svg" alt="App Store">
+                    </a>
+
+                    <a href="#" target="_blank">
+                        <img src="https://quipvid.com/img/google-play-badge.png" alt="App Store">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="logo">
         <div class="container">
             <img src="/images/sgfingvote.svg" alt="SGFing Vote">
