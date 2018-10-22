@@ -19,8 +19,10 @@
             <p>
                 Examples <br>
                 <img src="/images/sarah.jpeg" alt="SGFing Photo">
-                <img src="/images/shawna.jpeg" alt="SGFing Photo"> <img src="/images/brad.jpeg" alt="SGFing Photo">
-                <img src="/images/myke.jpeg" alt="SGFing Photo">
+                <img src="/images/brad.jpeg" alt="SGFing Photo">
+                <img src="/images/myke.jpg" alt="SGFing Photo">
+                <img src="/images/sgfing_dave.jpeg" alt="SGFing Photo">
+                <img src="/images/sgfing_wesley.jpeg" alt="SGFing Photo">
             </p>
         </div>
     </div>
