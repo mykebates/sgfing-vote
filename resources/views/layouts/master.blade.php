@@ -39,19 +39,19 @@
 <header>
     <div class="app">
         <div class="container">
-            <div>
+            {{--<div>
                 <h2>Choose your issues. Share your voice. COMING SOON: SGFing VOTE App</h2>
-            </div>
+            </div>--}}
             
-            <div style="display: none;">
+            <div>
                 <h2>Choose your issues. Share your voice. Download the SGFing VOTE App:</h2>
                 <div class="links">
-                    <a href="#" target="_blank">
+                    <a href="https://itunes.apple.com/us/app/sgfing-vote/id1439602083?ls=1&mt=8" target="_blank">
                         <img src="https://quipvid.com/img/app_store.svg" alt="App Store">
                     </a>
 
-                    <a href="#" target="_blank">
-                        <img src="https://quipvid.com/img/google-play-badge.png" alt="App Store">
+                    <a href="https://play.google.com/store/apps/details?id=com.Doorjambs.SGFingVote" target="_blank">
+                        <img src="https://quipvid.com/img/google-play-badge.png" alt="Google Play">
                     </a>
                 </div>
             </div>
